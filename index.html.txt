@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - WK Smart Factory</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidade – WK Smart Factory</h1>
+    <p><strong>Última atualização:</strong> [data de hoje]</p>
+    
+    <h2>1. Informações Coletadas</h2>
+    <p>O único dado coletado pelo <strong>WK Smart Factory</strong> é o <strong>e-mail do usuário</strong>, utilizado exclusivamente para login no sistema.</p>
+    
+    <h2>2. Uso das Informações</h2>
+    <p>O e-mail coletado é utilizado apenas para autenticação no aplicativo. <strong>Não utilizamos, compartilhamos ou vendemos</strong> essas informações para terceiros.</p>
+    
+    <h2>3. Armazenamento e Segurança</h2>
+    <p>O e-mail fornecido é armazenado com segurança e protegido contra acessos não autorizados. Adotamos medidas de segurança para garantir a integridade dos dados.</p>
+    
+    <h2>4. Permissões do Aplicativo</h2>
+    <p>O <strong>WK Smart Factory</strong> não solicita acesso a câmera, armazenamento, localização ou qualquer outra permissão do dispositivo.</p>
+    
+    <h2>5. Alterações nesta Política</h2>
+    <p>Podemos atualizar esta política periodicamente. Qualquer alteração será informada dentro do aplicativo ou por outro meio adequado.</p>
+    
+    <h2>6. Contato</h2>
+    <p>Se tiver dúvidas sobre esta política de privacidade, entre em contato conosco:</p>
+    <p><strong>E-mail:</strong> <a href="mailto:contato@wksolucoes.com">contato@wksolucoes.com</a></p>
+</body>
+</html>
